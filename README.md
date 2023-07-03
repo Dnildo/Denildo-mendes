@@ -3,4 +3,4 @@
 Olá eu sou Denildo mendes!
 Sou graduado em analise e desenvolvimento de sistemas pela universidade claretiano (Tecnólogo).
 Atualmente estou cursando uma formação em Tecnologia pela Escola DNC que tem como objetivo tornar o aluno um Full-Stack.
-Meu foco no momento estão nas tecnologias " HTML, CSS, Sass, Scss, Bodstrap, Figma, JavaScript, React. 
+Meu foco no momento estão nas tecnologias " HTML, CSS, Sass, Scss, Bodstrap, Figma, JavaScript, React". 
