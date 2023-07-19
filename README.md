@@ -31,4 +31,4 @@ A Dicionei o meu projeto pessoal ao meu readme intencionalmente, para visualiza√
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C70F1&height=120&section=footer"/>
+
