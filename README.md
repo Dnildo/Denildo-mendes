@@ -1,11 +1,13 @@
 
 <!-- img width = 200px src="https://theme.zdassets.com/theme_assets/10581808/55574aacd1b8552926cee18e21442964c7a8d53f.png"/ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=A+REVOLUÇÃO+É+A+PRÁTICA;DEDICAÇÃO+E+ESFORÇO+MUDAM+O+JOGO)](https://git.io/typing-svg)
+
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EscolaDNC&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Dnildo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscolaDNC&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<p> Olá, meu nome é Denildo mendes portela, sou graduado em analise e Desenvolvimento de Sistemas(Tecnólogo) pela faculdade claretiano,</br>
+atualmente estou focado no front end e back end através de uma Formação em tecnologia pela escola DNC 
+ 
+ 
 </div>
 
 
@@ -16,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;)&nbsp;
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
