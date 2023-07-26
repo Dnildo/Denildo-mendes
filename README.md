@@ -5,7 +5,7 @@
 
 <div align="center">  
 <p> Olá, meu nome é Denildo mendes portela, sou graduado em analise e Desenvolvimento de Sistemas(Tecnólogo) pela faculdade claretiano.</br>
-atualmente estou focado no front end e back end através de uma Formação em tecnologia pela escola DNC 
+atualmente estou focado no front end e back end através de uma Formação em tecnologia pela escola DNC que tem como objetivo transformar o aluno em um Full-Stack 
  
  
 </div>
