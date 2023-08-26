@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-<p> Olá, meu nome é Denildo mendes portela, sou graduado em analise e Desenvolvimento de Sistemas(Tecnólogo) pela faculdade claretiano, Defesa Cibernética pela estacio.</br>
+<p> Olá, meu nome é Denildo mendes portela, sou graduado em analise e Desenvolvimento de Sistemas(Tecnólogo) pela faculdade claretiano, Defesa Cibernética pela estácio.</br>
 atualmente estou focado no front end e back end através de uma Formação em tecnologia pela escola DNC que tem como objetivo transformar o aluno em um Full-Stack 
  
  
